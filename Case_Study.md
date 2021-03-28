@@ -55,16 +55,16 @@ In order to increase the choice of cryptocurrencies being offered, company may c
 
 
 ##  Sources:
-https://blockfi.com/mission
-https://blockfi.com/rates/
-https://help.blockfi.com/hc/en-us/articles/360049343471-How-is-BlockFi-different-from-competitors-
-https://www.forbes.com/sites/ninabambysheva/2021/03/11/blockfi-gets-a-3-billion-valuation-with-new-350-million-series-d-funding/?sh=5142dfb458a5
-https://nexo.io/about-us
-https://reports.credmark.com/TheCryptoCreditReport-q4-2020.pdf
-https://coinmarketcap.com/headlines/news/defi-lending-platforms/
-https://en.wikipedia.org/wiki/Decentralized_finance
-https://coinquora.com/defi-market-growth-2021-what-to-look-out-for-in-defi/
-https://www.isregulated.com/global-financial-regulators-beam-searchlight-on-defi-in-amended-regulations/
-https://boards.greenhouse.io/blockfi/jobs/5013645002
-http://www3.weforum.org/docs/WEF_Interoperability_C4IR_Smart_Contracts_Project_2020.pdf
-https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers
+* https://blockfi.com/mission
+* https://blockfi.com/rates/
+* https://help.blockfi.com/hc/en-us/articles/360049343471-How-is-BlockFi-different-from-competitors-
+* https://www.forbes.com/sites/ninabambysheva/2021/03/11/blockfi-gets-a-3-billion-valuation-with-new-350-million-series-d-funding/?sh=5142dfb458a5
+* https://nexo.io/about-us
+* https://reports.credmark.com/TheCryptoCreditReport-q4-2020.pdf
+* https://coinmarketcap.com/headlines/news/defi-lending-platforms/
+* https://en.wikipedia.org/wiki/Decentralized_finance
+* https://coinquora.com/defi-market-growth-2021-what-to-look-out-for-in-defi/
+* https://www.isregulated.com/global-financial-regulators-beam-searchlight-on-defi-in-amended-regulations/
+* https://boards.greenhouse.io/blockfi/jobs/5013645002
+* http://www3.weforum.org/docs/WEF_Interoperability_C4IR_Smart_Contracts_Project_2020.pdf
+* https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers
