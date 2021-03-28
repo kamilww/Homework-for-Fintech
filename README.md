@@ -1,2 +1,2 @@
 # Homework-for-Fintech
-Homework for Fintech class
+Homework 1--Case Study for Blockfi
